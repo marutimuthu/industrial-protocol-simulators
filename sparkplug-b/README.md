@@ -1,0 +1,2 @@
+- https://github.com/Cirrus-Link/Sparkplug/blob/main/client_libraries/python/sparkplug_b_pb2.py
+- https://github.com/eclipse-tahu/tahu/tree/master/python/core
